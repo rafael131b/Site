@@ -1,0 +1,23 @@
+body{
+    background-image: url('amy.jpg');
+}
+
+header{
+    background-color: teal;
+    margin-top: 100px;
+    min-height: 70px;
+    
+    
+}
+header ul li{
+    font-size: 30px;
+    color: white;
+}
+
+section {
+    color: white;
+}
+
+h1{
+    font-size: 50px;
+}

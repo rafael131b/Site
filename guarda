@@ -1,0 +1,61 @@
+
+
+<div class="d-flex justify-content-around">
+
+                <div>
+                    <h4>Fox Clore</h4>
+                    <small>A cidade não pode parar</small>
+                </div>
+
+                <div class="d-inline-flex">
+                    <div>
+                        <img src="assets/certo.png" alt="">
+                    </div>
+
+                    <div>
+                        <h4>Fox Clore</h4>
+                        <small>A cidade não pode parar</small>
+                    </div>
+                    
+                </div>
+
+
+                <div class="d-inline-flex">
+                    <div>
+                        <img src="assets/certo.png" alt="">
+                    </div>
+                    
+                    <div>
+                        <h4>Fox Clore</h4>
+                        <small>A cidade não pode parar</small>
+                    </div>
+                    
+                </div>
+
+
+                <div class="d-inline-flex">
+                    <div>
+                        <img src="assets/certo.png" alt="">
+                    </div>
+                    
+                    <div>
+                        <h4>Fox Clore</h4>
+                        <small>A cidade não pode parar</small>
+                    </div>
+                    
+                </div>
+            </div>
+
+
+
+
+<ul class="list-inline" style="list-style: none;">
+
+                
+                <li class="list-inline-item" ><a href="#">HomePage|</a></li>
+                <li class="list-inline-item"><a href="#">Style Demo |</a></li>
+                <li class="list-inline-item"><a href="#">full width|</a></li>
+                <li class="list-inline-item"><a href="#">DropDown </a></li>
+                
+            </ul>
+    
